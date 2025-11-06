@@ -1,0 +1,11 @@
+#pragma once
+#include <stdio.h>
+#include <math.h>
+#include "QuanLyDocGia.h"
+#include <string.h>
+#include "NgayThangNam.h"
+#include "Menu.h"
+#include "QuanLySach.h"
+#include "XuLyMangChung.h"
+#include "MuonTraSach.h"
+#include "ThongKeDanhSach.h"
